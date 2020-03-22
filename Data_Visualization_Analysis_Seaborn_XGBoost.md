@@ -1,4 +1,4 @@
-# Statistical Data Visualization
+# Statistical Data Visualization using Seaborn with XGBoost
 
 For this project, statistical data visualization uses Seaborn to create a model from a binary element response variable using feature selection.  It attempts to outline procedures for discovering the best model satisfying the objective.  
 
